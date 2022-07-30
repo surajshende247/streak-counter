@@ -5,8 +5,9 @@
     "type": "git",
     "url": "https://github.com/surajshende247/streak-counter"
   },
+  "author": "Suraj Shende <surajshende247@gmail.com>",
   "liscense": "MIT",
-  "type": "module",
+  "type": "commonjs",
   "types": "./dist/index.d.ts",
   "source": "src/index.ts",
   "exports": {
