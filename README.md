@@ -8,4 +8,6 @@ This is a basic streak counter - inspired by Duolingo - written in TypeScript an
 yarn add @surajshende247/streak-counter
 ```
 
+```shell
 npm install @surajshende247/streak-counter
+```
